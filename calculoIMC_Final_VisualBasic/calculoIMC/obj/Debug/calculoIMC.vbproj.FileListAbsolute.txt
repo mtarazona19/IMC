@@ -1,0 +1,11 @@
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\bin\Debug\calculoIMC.exe.config
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.vbprojResolveAssemblyReference.cache
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.Form1.resources
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.Resources.resources
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.vbproj.GenerateResource.Cache
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\bin\Debug\calculoIMC.exe
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\bin\Debug\calculoIMC.pdb
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\bin\Debug\calculoIMC.xml
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.exe
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.xml
+E:\Users\Miguel\Desktop\Proyectos\calculoIMC\calculoIMC\calculoIMC\obj\Debug\calculoIMC.pdb
